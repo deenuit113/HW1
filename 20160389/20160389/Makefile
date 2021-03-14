@@ -1,4 +1,4 @@
 
-hw1.o : fork.c exec.c cat.c pipe.c
+hw1: fork.c exec.c cat.c pipe.c
 	gcc -c fork.c exec.c cat.c pipe.c
 
